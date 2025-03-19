@@ -1,0 +1,48 @@
+Línea 20: la clase TabDlg.SSTab del control sstabFormas no era una clase de control cargada.
+Línea 85: la clase MSHierarchicalFlexGridLib.MSHFlexGrid del control grdComisiones no era una clase de control cargada.
+Línea 174: la clase MSHierarchicalFlexGridLib.MSHFlexGrid del control grdFormas no era una clase de control cargada.
+Línea 489: la clase MSMask.MaskEdBox del control mskCuenta no era una clase de control cargada.
+Línea 26: el nombre de la propiedad _ExtentX de sstabFormas no es válido.
+Línea 27: el nombre de la propiedad _ExtentY de sstabFormas no es válido.
+Línea 28: el nombre de la propiedad _Version de sstabFormas no es válido.
+Línea 29: el nombre de la propiedad TabHeight de sstabFormas no es válido.
+Línea 30: el nombre de la propiedad TabCaption(0) de sstabFormas no es válido.
+Línea 31: el nombre de la propiedad TabPicture(0) de sstabFormas no es válido.
+Línea 32: el nombre de la propiedad Tab(0).ControlEnabled de sstabFormas no es válido.
+Línea 33: el nombre de la propiedad Tab(0).Control(0) de sstabFormas no es válido.
+Línea 34: el nombre de la propiedad Tab(0).Control(0).Enabled de sstabFormas no es válido.
+Línea 35: el nombre de la propiedad Tab(0).Control(1) de sstabFormas no es válido.
+Línea 36: el nombre de la propiedad Tab(0).Control(1).Enabled de sstabFormas no es válido.
+Línea 37: el nombre de la propiedad Tab(0).ControlCount de sstabFormas no es válido.
+Línea 38: el nombre de la propiedad TabCaption(1) de sstabFormas no es válido.
+Línea 39: el nombre de la propiedad TabPicture(1) de sstabFormas no es válido.
+Línea 40: el nombre de la propiedad Tab(1).ControlEnabled de sstabFormas no es válido.
+Línea 41: el nombre de la propiedad Tab(1).Control(0) de sstabFormas no es válido.
+Línea 42: el nombre de la propiedad Tab(1).ControlCount de sstabFormas no es válido.
+Línea 43: el nombre de la propiedad TabCaption(2) de sstabFormas no es válido.
+Línea 44: el nombre de la propiedad TabPicture(2) de sstabFormas no es válido.
+Línea 45: el nombre de la propiedad Tab(2).ControlEnabled de sstabFormas no es válido.
+Línea 46: el nombre de la propiedad Tab(2).Control(0) de sstabFormas no es válido.
+Línea 47: el nombre de la propiedad Tab(2).Control(1) de sstabFormas no es válido.
+Línea 48: el nombre de la propiedad Tab(2).ControlCount de sstabFormas no es válido.
+Línea 92: el nombre de la propiedad _ExtentX de grdComisiones no es válido.
+Línea 93: el nombre de la propiedad _ExtentY de grdComisiones no es válido.
+Línea 94: el nombre de la propiedad _Version de grdComisiones no es válido.
+Línea 95: el nombre de la propiedad Cols de grdComisiones no es válido.
+Línea 96: el nombre de la propiedad GridColor de grdComisiones no es válido.
+Línea 97: el nombre de la propiedad ScrollBars de grdComisiones no es válido.
+Línea 98: el nombre de la propiedad _NumberOfBands de grdComisiones no es válido.
+Línea 99: el nombre de la propiedad _Band(0).Cols de grdComisiones no es válido.
+Línea 100: el nombre de la propiedad _Band(0).GridLinesBand de grdComisiones no es válido.
+Línea 101: el nombre de la propiedad _Band(0).TextStyleBand de grdComisiones no es válido.
+Línea 102: el nombre de la propiedad _Band(0).TextStyleHeader de grdComisiones no es válido.
+Línea 180: el nombre de la propiedad _ExtentX de grdFormas no es válido.
+Línea 181: el nombre de la propiedad _ExtentY de grdFormas no es válido.
+Línea 182: el nombre de la propiedad _Version de grdFormas no es válido.
+Línea 183: el nombre de la propiedad GridColor de grdFormas no es válido.
+Línea 184: el nombre de la propiedad _NumberOfBands de grdFormas no es válido.
+Línea 185: el nombre de la propiedad _Band(0).Cols de grdFormas no es válido.
+Línea 496: el nombre de la propiedad _ExtentX de mskCuenta no es válido.
+Línea 497: el nombre de la propiedad _ExtentY de mskCuenta no es válido.
+Línea 498: el nombre de la propiedad _Version de mskCuenta no es válido.
+Línea 499: el nombre de la propiedad PromptChar de mskCuenta no es válido.

@@ -1,0 +1,32 @@
+:Title Ayuda_CA_CAJA
+:Index Ayuda_CA_CAJA=CA_AYUDA.hlp
+1 CAJA
+2 Cargos=PAGE_0_PV_CARGOS
+2 Pagos=PAGE_0_PV_Pagos
+2 Facturación=PAGE_0_PV_facturacion
+2 Honorarios=PAGE_0_PV_honorarios
+2 Caja Chica=PAGE_0_PV_CAjach
+2 Presupuesto=PAGE_0_PV_Presupuesto
+2 Venta al Público=PAGE_0_PV_ventapublico
+2 Precios=PAGE_0_PV_precios
+2 Catalogos=PAGE_0_catalogos
+2 Parametros=PAGE_0_parametros
+2 Requisición=PAGE_0_PV_Requisicion
+2 MANEJO DE CARGOS
+3 Cargo de Cuartos=PAGE_0_PV_Manejo_cargo_cuartos
+3 Traslado de Cuartos=PAGE_0_PV_Tras_Cargos
+3 Abrir Cuentas=PAGE_0_Abrir_ctas
+3 Exlusión=PAGE_0_PV_exclusion
+3 Asignacion Paquetes=PAGE_0_PV_Asig_Paquetes
+3 Asiganción de Paquetes=PAGE_0_PV_Asig_paq
+3 Grupo de Cuentas=PAGE_0_PV_gpo_ctas
+2 DESCUENTOS
+3 Descuentos=PAGE_0_PV_descuentos
+3 Descuentos Normales=PAGE_0_PV_DCTOS_NORMALES
+3 Descuentos con Tarjeta=PAGE_0_PV_dctos_tarjeta
+2 CORTE
+3 Corte=PAGE_0_PV_Corte_corte
+3 Transferencia=PAGE_0_PV_Transf
+3 Consulta de Polizas=PAGE_0_PV_Cons_polizas
+2 REPORTES
+3 Reportes=PAGE_0_PV_Reportes

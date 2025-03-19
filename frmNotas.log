@@ -1,0 +1,2 @@
+Línea 30: la clase MSComctlLib.ProgressBar del control pgbBarraCFD no era una clase de control cargada.
+Línea 78: la clase MSComctlLib.ProgressBar del control pgbCargando no era una clase de control cargada.

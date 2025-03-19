@@ -1,0 +1,437 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Caja|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\CME\Caja\Instalador
+
+[Package|Caja|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=No
+Text=Yes
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Caja|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Caja|Files Found]
+crxlat32.dll=C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\crxlat32.dll
+
+[Package|Caja|Files Released]
+
+[Package|Caja|Missing Dependency Information]
+C:\Archivos de programa\Archivos comunes\System\ado\MSADO20.TLB=
+
+[Package|Caja|Out-of-Date Dependency Information]
+C:\WINNT\system32\crystl32.ocx=
+C:\WINNT\system32\MSCAL.OCX=
+
+[Package|Caja|Files Added]
+
+[Package|Caja|Files Removed]
+
+[Package|Caja|Files In Project]
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\WINNT\system32\MSMASK32.OCX=Yes
+C:\WINNT\system32\MSHFLXGD.OCX=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\MSADO20.TLB=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\TABCTL32.OCX=Yes
+C:\WINNT\system32\SYSINFO.OCX=Yes
+C:\WINNT\system32\crystl32.ocx=Yes
+C:\WINNT\system32\crpe32.dll=Yes
+C:\WINNT\system32\implode.dll=Yes
+C:\WINNT\system32\pg32.dll=Yes
+C:\WINNT\system32\p2bbnd.dll=Yes
+C:\WINNT\system32\p2bdao.dll=Yes
+C:\WINNT\system32\p2ctdao.dll=Yes
+C:\WINNT\system32\p2irdao.dll=Yes
+C:\WINNT\system32\p2sodbc.dll=Yes
+C:\WINNT\system32\u2ddisk.dll=Yes
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\VBAJET32.DLL=Yes
+C:\WINNT\system32\EXPSRV.DLL=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSCAL.OCX=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\COMDLG32.OCX=Yes
+C:\WINNT\system32\MSXBSE35.DLL=Yes
+C:\WINNT\system32\MSRDO20.DLL=Yes
+C:\WINNT\system32\RDOCURS.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\WINNT\system32\MSTEXT35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\CME\Caja\CajaFinal\Caja.exe=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\crxlat32.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2dmapi.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fcr.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fdif.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fhtml.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2frec.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2frtf.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fsepv.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2ftext.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fwks.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fwordw.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fxls.dll=Yes
+
+[Package|Caja|Configure Registry Files]
+Applicable=No
+
+[Package|Caja|Configure Remote Servers]
+Applicable=No
+
+[Package|Caja|Install Locations]
+E:\CME\Caja\server_cme\prjCaja.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Archivos de programa\Archivos comunes\System\ado\MSADO20.TLB=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\SYSINFO.OCX=$(WinSysPath)
+C:\WINNT\system32\crystl32.ocx=$(WinSysPath)
+C:\WINNT\system32\crpe32.dll=$(WinSysPath)
+C:\WINNT\system32\implode.dll=$(WinSysPath)
+C:\WINNT\system32\pg32.dll=$(WinSysPath)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=$(WinSysPath)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=$(WinSysPathSysFile)
+D:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\crxlat32.dll=$(WinPath)\Crystal
+C:\WINNT\system32\p2bbnd.dll=$(WinSysPath)
+C:\WINNT\system32\p2bdao.dll=$(WinSysPath)
+C:\WINNT\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINNT\system32\p2irdao.dll=$(WinSysPath)
+C:\WINNT\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINNT\system32\u2ddisk.dll=$(WinPath)\Crystal
+D:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2dmapi.dll=$(WinPath)\Crystal
+D:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fcr.dll=$(WinPath)\Crystal
+D:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fdif.dll=$(WinPath)\Crystal
+D:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fhtml.dll=$(WinPath)\Crystal
+D:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2frec.dll=$(WinPath)\Crystal
+D:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2frtf.dll=$(WinPath)\Crystal
+D:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fsepv.dll=$(WinPath)\Crystal
+D:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2ftext.dll=$(WinPath)\Crystal
+D:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fwks.dll=$(WinPath)\Crystal
+D:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fwordw.dll=$(WinPath)\Crystal
+D:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fxls.dll=$(WinPath)\Crystal
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\CME\Caja\server_cme\Caja.exe=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=$(WinSysPathSysFile)
+D:\CME\Caja\Instalador\Support\crxlat32.dll=$(WinPath)\Crystal
+D:\CME\Caja\Instalador\Support\u2dmapi.dll=$(WinPath)\Crystal
+D:\CME\Caja\Instalador\Support\u2fcr.dll=$(WinPath)\Crystal
+D:\CME\Caja\Instalador\Support\u2fdif.dll=$(WinPath)\Crystal
+D:\CME\Caja\Instalador\Support\u2fhtml.dll=$(WinPath)\Crystal
+D:\CME\Caja\Instalador\Support\u2frec.dll=$(WinPath)\Crystal
+D:\CME\Caja\Instalador\Support\u2frtf.dll=$(WinPath)\Crystal
+D:\CME\Caja\Instalador\Support\u2fsepv.dll=$(WinPath)\Crystal
+D:\CME\Caja\Instalador\Support\u2ftext.dll=$(WinPath)\Crystal
+D:\CME\Caja\Instalador\Support\u2fwks.dll=$(WinPath)\Crystal
+D:\CME\Caja\Instalador\Support\u2fwordw.dll=$(WinPath)\Crystal
+D:\CME\Caja\Instalador\Support\u2fxls.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\EXPSRV.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCAL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINNT\system32\RDOCURS.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINNT\system32\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\CME\Caja\CajaFinal\Caja.exe=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\crxlat32.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2dmapi.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fcr.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fdif.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fhtml.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2frec.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2frtf.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fsepv.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2ftext.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fwks.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fwordw.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fxls.dll=$(WinPath)\Crystal
+
+[Package|Caja|Configure Shared Files]
+Applicable=Yes
+E:\CME\Caja\server_cme\prjCaja.exe=No
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\CME\Caja\server_cme\Caja.exe=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\CME\Caja\CajaFinal\Caja.exe=No
+
+[Package|Caja|Distribution]
+Type=single
+Size=
+Title=Super Caja
+
+[Package|Caja|Package]
+PackageFolder=d:\CME\Caja\Instalador
+ProjectFolder=D:\CME\Caja\CajaFinal
+ServerSideCab=
+File1=d:\CME\Caja\Instalador\setup.exe
+File2=d:\CME\Caja\Instalador\Setup.Lst
+File3=d:\CME\Caja\Instalador\Caja.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Caja|IconGroups]
+Group0=Caja
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Caja|Caja]
+Icon1=prjCaja.exe
+Title1=Caja
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=e:\TEMP\Instalador
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Standard Setup Package 1|Files Found]
+crxlat32.dll=C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\crxlat32.dll
+u2dmapi.dll=C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2dmapi.dll
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Archivos de programa\Archivos comunes\System\ADO\MSADO20.TLB=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\Archivos de programa\Microsoft Office\Office\MSCAL.OCX=
+C:\WINNT\system32\crystl32.ocx=
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\CME\Caja\CajaFinal\Caja.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\MSMASK32.OCX=Yes
+C:\WINNT\system32\MSHFLXGD.OCX=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=Yes
+C:\Archivos de programa\Archivos comunes\System\ADO\MSADO20.TLB=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\TABCTL32.OCX=Yes
+C:\WINNT\system32\SYSINFO.OCX=Yes
+C:\WINNT\system32\crystl32.ocx=Yes
+C:\WINNT\system32\crpe32.dll=Yes
+C:\WINNT\system32\implode.dll=Yes
+C:\WINNT\system32\pg32.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\crxlat32.dll=Yes
+C:\WINNT\system32\p2bbnd.dll=Yes
+C:\WINNT\system32\p2bdao.dll=Yes
+C:\WINNT\system32\p2ctdao.dll=Yes
+C:\WINNT\system32\p2irdao.dll=Yes
+C:\WINNT\system32\p2sodbc.dll=Yes
+C:\WINNT\system32\u2ddisk.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2dmapi.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fcr.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fdif.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fhtml.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2frec.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2frtf.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fsepv.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2ftext.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fwks.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fwordw.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fxls.dll=Yes
+C:\WINNT\system32\MSDBRPTR.DLL=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\VBAJET32.DLL=Yes
+C:\WINNT\system32\EXPSRV.DLL=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\Archivos de programa\Microsoft Office\Office\MSCAL.OCX=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\COMDLG32.OCX=Yes
+C:\WINNT\system32\MSRDO20.DLL=Yes
+C:\WINNT\system32\RDOCURS.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\CME\Caja\CajaFinal\Caja.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Archivos de programa\Archivos comunes\System\ADO\MSADO20.TLB=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\SYSINFO.OCX=$(WinSysPath)
+C:\WINNT\system32\crystl32.ocx=$(WinSysPath)
+C:\WINNT\system32\crpe32.dll=$(WinSysPath)
+C:\WINNT\system32\implode.dll=$(WinSysPath)
+C:\WINNT\system32\pg32.dll=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\crxlat32.dll=$(WinPath)\Crystal
+C:\WINNT\system32\p2bbnd.dll=$(WinSysPath)
+C:\WINNT\system32\p2bdao.dll=$(WinSysPath)
+C:\WINNT\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINNT\system32\p2irdao.dll=$(WinSysPath)
+C:\WINNT\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINNT\system32\u2ddisk.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2dmapi.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fcr.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fdif.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fhtml.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2frec.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2frtf.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fsepv.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2ftext.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fwks.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fwordw.dll=$(WinPath)\Crystal
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Reports\u2fxls.dll=$(WinPath)\Crystal
+C:\WINNT\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\EXPSRV.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Office\Office\MSCAL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINNT\system32\RDOCURS.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\CME\Caja\CajaFinal\Caja.exe=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Caja
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=e:\TEMP\Instalador
+ProjectFolder=D:\CME\Caja\CajaFinal
+ServerSideCab=
+File1=e:\TEMP\Instalador\setup.exe
+File2=e:\TEMP\Instalador\Setup.Lst
+File3=e:\TEMP\Instalador\Caja.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Caja
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Caja]
+Icon1=Caja.exe
+Title1=Caja
+StartIn1=$(AppPath)
+Key1=Icon1

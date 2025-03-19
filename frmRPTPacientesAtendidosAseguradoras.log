@@ -1,0 +1,16 @@
+Line 63: Class MSMask.MaskEdBox of control mskInicio was not a loaded control class.
+Line 78: Class MSMask.MaskEdBox of control mskFin was not a loaded control class.
+Line 70: The property name _ExtentX in mskInicio is invalid.
+Line 71: The property name _ExtentY in mskInicio is invalid.
+Line 72: The property name _Version in mskInicio is invalid.
+Line 73: The property name MaxLength in mskInicio is invalid.
+Line 74: The property name Format in mskInicio is invalid.
+Line 75: The property name Mask in mskInicio is invalid.
+Line 76: The property name PromptChar in mskInicio is invalid.
+Line 85: The property name _ExtentX in mskFin is invalid.
+Line 86: The property name _ExtentY in mskFin is invalid.
+Line 87: The property name _Version in mskFin is invalid.
+Line 88: The property name MaxLength in mskFin is invalid.
+Line 89: The property name Format in mskFin is invalid.
+Line 90: The property name Mask in mskFin is invalid.
+Line 91: The property name PromptChar in mskFin is invalid.

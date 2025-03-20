@@ -1,0 +1,11 @@
+Línea 31: la clase MSHierarchicalFlexGridLib.MSHFlexGrid del control grdRelacion no era una clase de control cargada.
+Línea 39: el nombre de la propiedad _ExtentX de grdRelacion no es válido.
+Línea 40: el nombre de la propiedad _ExtentY de grdRelacion no es válido.
+Línea 41: el nombre de la propiedad _Version de grdRelacion no es válido.
+Línea 42: el nombre de la propiedad Cols de grdRelacion no es válido.
+Línea 43: el nombre de la propiedad FixedCols de grdRelacion no es válido.
+Línea 44: el nombre de la propiedad GridColor de grdRelacion no es válido.
+Línea 45: el nombre de la propiedad AllowBigSelection de grdRelacion no es válido.
+Línea 46: el nombre de la propiedad SelectionMode de grdRelacion no es válido.
+Línea 47: el nombre de la propiedad _NumberOfBands de grdRelacion no es válido.
+Línea 48: el nombre de la propiedad _Band(0).Cols de grdRelacion no es válido.

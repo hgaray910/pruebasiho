@@ -1,0 +1,19 @@
+Línea 19: la clase TabDlg.SSTab del control sstDatos no era una clase de control cargada.
+Línea 25: el nombre de la propiedad _ExtentX de sstDatos no es válido.
+Línea 26: el nombre de la propiedad _ExtentY de sstDatos no es válido.
+Línea 27: el nombre de la propiedad _Version de sstDatos no es válido.
+Línea 28: el nombre de la propiedad Tabs de sstDatos no es válido.
+Línea 29: el nombre de la propiedad TabHeight de sstDatos no es válido.
+Línea 30: el nombre de la propiedad TabCaption(0) de sstDatos no es válido.
+Línea 31: el nombre de la propiedad TabPicture(0) de sstDatos no es válido.
+Línea 32: el nombre de la propiedad Tab(0).ControlEnabled de sstDatos no es válido.
+Línea 33: el nombre de la propiedad Tab(0).Control(0) de sstDatos no es válido.
+Línea 34: el nombre de la propiedad Tab(0).Control(0).Enabled de sstDatos no es válido.
+Línea 35: el nombre de la propiedad Tab(0).Control(1) de sstDatos no es válido.
+Línea 36: el nombre de la propiedad Tab(0).Control(1).Enabled de sstDatos no es válido.
+Línea 37: el nombre de la propiedad Tab(0).ControlCount de sstDatos no es válido.
+Línea 38: el nombre de la propiedad TabCaption(1) de sstDatos no es válido.
+Línea 39: el nombre de la propiedad TabPicture(1) de sstDatos no es válido.
+Línea 40: el nombre de la propiedad Tab(1).ControlEnabled de sstDatos no es válido.
+Línea 41: el nombre de la propiedad Tab(1).Control(0) de sstDatos no es válido.
+Línea 42: el nombre de la propiedad Tab(1).ControlCount de sstDatos no es válido.

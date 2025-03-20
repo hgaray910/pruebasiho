@@ -1,5 +1,4 @@
 VERSION 5.00
-Object = "{0ECD9B60-23AA-11D0-B351-00A0C9055D8E}#6.0#0"; "MSHFLXGD.OCX"
 Begin VB.Form frmAlmacenPOS 
    BorderStyle     =   1  'Fixed Single
    Caption         =   "Manejo almacenes venta público"
@@ -28,24 +27,16 @@ Begin VB.Form frmAlmacenPOS
       Top             =   3525
       Width           =   495
    End
-   Begin MSHierarchicalFlexGridLib.MSHFlexGrid grdRelacion 
+   Begin VB.PictureBox grdRelacion 
       Height          =   2055
       Left            =   120
+      ScaleHeight     =   1995
+      ScaleWidth      =   6915
       TabIndex        =   1
       TabStop         =   0   'False
       ToolTipText     =   "Doble click para eliminar registro."
       Top             =   1320
       Width           =   6975
-      _ExtentX        =   12303
-      _ExtentY        =   3625
-      _Version        =   393216
-      Cols            =   4
-      FixedCols       =   0
-      GridColor       =   12632256
-      AllowBigSelection=   0   'False
-      SelectionMode   =   1
-      _NumberOfBands  =   1
-      _Band(0).Cols   =   4
    End
    Begin VB.Frame Frame1 
       Height          =   1095
@@ -180,6 +171,7 @@ Private Sub cmdSave_Click()
         grdRelacion.Enabled = True
         grdRelacion.RowSel = 1
     End If
+    
    Me.cmdSave.Enabled = False
    Exit Sub
 NotificaError:
